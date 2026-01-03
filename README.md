@@ -2,17 +2,13 @@
 <h3 align="center">Software Developer</h3>
 
 <p align="center">
-  <a href="https://github.com/BansodUjjwala">
-    <img src="https://img.shields.io/github/followers/BansodUjjwala?label=Followers&style=social" />
-  </a>
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 - 💼 Software Developer
-- 🧑‍💻 Working with backend and frontend applications
-- 🌱 Currently learning Microservices & System Design
+- 🧑‍💻 Interested in building backend and frontend applications
 - 📍 India
 
 ---
@@ -36,28 +32,17 @@
 ## 📂 Projects
 
 ### 🔹 URL Shortener Microservice
-- REST APIs using .NET Core
-- Clean and scalable architecture
+- REST APIs using .NET
+- Focus on clean architecture
 
 ### 🔹 Employee Management System
-- CRUD operations with ASP.NET
+- Web application with CRUD operations
 - SQL Server integration
 
 ### 🔹 Log Management System
-- Angular-based dashboard
+- Angular-based UI
 - Log filtering and reporting
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BansodUjjwala&show_icons=true&theme=dark" />
-</p>
-
----
-
 ⭐ *Thanks for visiting my GitHub profile!*
-
-
-
