@@ -1,48 +1,67 @@
-<h1 align="center">Hi 👋, I'm Ujjwala</h1>
-<h3 align="center">Software Developer</h3>
+# Hi 👋 I'm Ujjwala
 
-<p align="center">
-</p>
+🚀 Software Developer | .NET | Angular | SQL Server  
 
 ---
 
 ## 👩‍💻 About Me
-- 💼 Software Developer
-- 🧑‍💻 Interested in building backend and frontend applications
-- 📍 India
+- 💼 Software Developer 
+- 🧑‍💻 Strong in **.NET, ASP.NET Core, C#, Angular**
+- 🗄️ Experience with **SQL Server & REST APIs**
+- 📍 Based in **India**
+- 💬 Ask me about **C#, .NET Core, Angular, SQL**
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-**Backend**
-- C#, .NET, ASP.NET Core
+### Backend
+- C#, .NET Core, ASP.NET
+- Web API, Entity Framework Core
 
-**Frontend**
-- Angular, TypeScript, JavaScript
+### Frontend
+- Angular
+- TypeScript, JavaScript
+- HTML, CSS
 
-**Database**
+### Database
 - SQL Server
 
-**Tools**
-- Git, GitHub, Postman
+### Tools & Others
+- Git, GitHub
+- Visual Studio, VS Code
+- Postman
 
 ---
 
 ## 📂 Projects
 
-### 🔹 URL Shortener Microservice
-- REST APIs using .NET
-- Focus on clean architecture
-
-### 🔹 Employee Management System
-- Web application with CRUD operations
-- SQL Server integration
-
 ### 🔹 Log Management System
-- Angular-based UI
-- Log filtering and reporting
+**Tech:** Angular, .NET Core, SQL Server  
+- Filter logs by date, application name & log type  
+- Dashboard with charts and reports  
+
+### 🔹 Quiz Application
+**Tech:** Angular, JavaScript  
+- Dynamic quiz system with score calculation  
+
+### 🔹 ToDo Application
+**Tech:** .NET Core, Angular  
+- CRUD operations with clean architecture  
 
 ---
 
-⭐ *Thanks for visiting my GitHub profile!*
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: ujjwalabansod3@gmail.com  
+- 🌐 GitHub: https://github.com/BansodUjjwala
+
+---
+
+⭐ *Thank you for visiting my profile!*  
