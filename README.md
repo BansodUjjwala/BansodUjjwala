@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Ujjwala 👋
 
 I am a software developer who enjoys building scalable and maintainable applications.  
 Here is a brief overview of my technical skills.
