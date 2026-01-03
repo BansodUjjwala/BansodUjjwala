@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋 I'm Ujjwala
 
-<!--
-**BansodUjjwala/BansodUjjwala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software Developer | .NET | Angular | SQL Server  
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
+- 💼 Software Developer
+- 🧑‍💻 Working on .NET, ASP.NET Core, Angular
+- 🗄️ SQL Server, REST APIs
+- 🌱 Learning Microservices & System Design
+- 📍 India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- C#, .NET Core, ASP.NET
+- Angular, TypeScript, JavaScript
+- SQL Server
+- Git, GitHub
+
+## 📂 Projects
+- Log Management System
+- URL Shortener Microservice
+- Employee Management System
+
+## 📫 Connect
+- GitHub: https://github.com/BansodUjjwala
+
